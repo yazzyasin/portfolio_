@@ -1,0 +1,847 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bold {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4b6cc1;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.bg-container {
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.head {
+    color: white;
+    font-size: 45px;
+}
+
+.clr {
+    color: #4b6cc1;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 23px;
+}
+
+.btn {
+    background-color: #4b6cc1;
+    width: 190px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+.img {
+    height: 210px;
+    width: 240px;
+    border-radius: 350px;
+}
+
+.ver {
+    vertical-align: middle;
+}
+
+
+
+
+.bgy1 {
+    background-color: #323f4b;
+    background-size: cover;
+    height: 100%;
+}
+
+.imgy1 {
+    height: 500px;
+    width: 95%;
+}
+
+.head1y1 {
+    color: #cced00;
+    font-size: 29px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.head2y1 {
+    color: #ffffff;
+    font-size: 54px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.paray1 {
+    color: #9aa5b1;
+    font-size: 22px;
+    font-family: Roboto;
+}
+
+.bg2y1 {
+    background-color: #1f2933;
+    background-size: cover;
+    height: 100%;
+}
+
+.img2y1 {
+    width: 40%;
+}
+
+.conty1 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.head3y1 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.bg-container0 {
+    text-align: center;
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.img0 {
+    height: 230px;
+    width: 400px;
+}
+
+.headinggg0 {
+    color: #183b56;
+    font-family: bree Serif;
+    font-size: 25px;
+}
+
+.paraaa0 {
+    color: #183b56;
+    font-family: bree Serif;
+    font-size: 15px;
+}
+
+.image0 {
+    height: 120px;
+    width: 140px;
+    margin: 5px;
+}
+
+.imageai0 {
+    height: 120px;
+    width: 140px;
+    margin: 5px;
+}
+
+
+
+.bg-containerr0 {
+    background-image: url('https://img.freepik.com/free-photo/overhead-view-man-s-hand-holding-chopsticks-delicious-thai-food_23-2148093085.jpg?semt=ais_hybrid&w=740&q=80');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card0 {
+    background-color: #f6c56e;
+    color: #323f4b;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.main-heading0 {
+    font-family: Bree Serif;
+}
+
+.button0 {
+    color: black;
+    background-color: #ffffff;
+    border-width: 0px;
+    border-radius: 8px;
+    width: 120px;
+    padding: 9px;
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.para0 {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+
+
+
+.bg-containerrr0 {
+    background-image: url('https://www.shutterstock.com/image-illustration/ai-chip-on-circuit-board-600nw-2577110797.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.cardd0 {
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 12px;
+}
+
+.main-headingg0 {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 25px;
+}
+
+.paraa0 {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.buttonnn0 {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border-width: 1px;
+    margin: 6px;
+    font-size: 12px;
+    padding: 7px;
+    width: 120px;
+    border-color: #d7dfe9;
+}
+
+.buttonn0 {
+    background-color: #5752ab;
+    margin: 6px;
+    border-radius: 8px;
+    width: 120px;
+    font-size: 12px;
+    border-width: 0px;
+    color: white;
+    padding: 7px;
+}
+
+
+
+
+.bg-containerrrr0 {
+    background-image: url(' https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2019/11/whatsapp-image-2019-11-24-at-16-1574593427.jpeg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.cardddd0 {
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 25px;
+}
+
+.heading0 {
+    font-size: 13px;
+    color: #7b8794;
+}
+
+.paraaaa0 {
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.buttonnnn0 {
+    border-radius: 9px;
+    color: #ffffff;
+    background-color: #323f4b;
+    width: 110px;
+    font-size: 12px;
+    padding: 8px;
+    border-width: 0px;
+    font-family: Roboto;
+}
+
+.main-headingggg0 {
+    font-size: 17px;
+    color: #323f4b;
+}
+
+
+
+
+
+.bg-containerrrrr0 {
+    background-color: white;
+    margin: 10px;
+    border-color: #0967d219;
+}
+
+.card10 {
+    padding: 15px;
+}
+
+.headinggggg0 {
+    font-size: 15px;
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.button50 {
+    border-radius: 8px;
+    font-size: 11px;
+    background-color: #0967d2;
+    border-width: 0px;
+    color: white;
+    padding: 8px;
+}
+
+.img50 {
+    height: 90px;
+}
+
+.card20 {
+    background-color: #0967d219;
+    margin: 10px;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.heading20 {
+    font-size: 10px;
+    color: #323f4b;
+}
+
+.para50 {
+    font-size: 11px;
+    font-weight: 500;
+    color: #707070;
+}
+
+.card2a0 {
+
+    padding: 10px;
+}
+
+.card30 {
+    margin: 15px;
+}
+
+.card4a0 {
+    background-color: #3ebd93;
+    width: 85px;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 9px;
+}
+
+.para20 {
+    font-size: 13px;
+    color: white;
+    text-align: center;
+}
+
+.card4b0 {
+    background-color: #e668a7;
+    width: 85px;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 9px;
+}
+
+.card4c0 {
+    background-color: #a368fc;
+    width: 85px;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 9px;
+}
+
+.card50 {
+    margin: 15px;
+}
+
+.card60 {
+    background-color: #e12d3919;
+    margin: 10px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.imggg0 {
+    font-size: 6px;
+}
+
+
+
+
+
+
+.bg-containery0 {
+    background-color: #894bca;
+    height: 100vh;
+    background-size: cover;
+}
+
+.store-cardy0 {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #ffffff;
+}
+
+.head1y0 {
+    color: #f780c3;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.head2y0 {
+    font-size: 17px;
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.paray0 {
+    font-size: 13px;
+    color: #7b8794;
+    font-family: Roboto;
+}
+
+.imgy0 {
+    height: 45px;
+    width: 45px;
+    margin: 10px;
+}
+
+.card1y0 {
+    margin: 5px;
+}
+
+
+.main-headingy0 {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 25px;
+    padding: 25px;
+}
+
+.stores-imagey0 {
+    height: 185px;
+    width: 168px;
+    margin-left: auto;
+}
+
+
+
+
+
+.bg-containeryy0 {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.imgyy0 {
+    height: 230px;
+    width: 210px;
+}
+
+.parayy0 {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 11px;
+}
+
+.buttonyy0 {
+    color: #fad693;
+    background-color: #132d84;
+    font-size: 13px;
+    border-width: 0px;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.card0yy0 {
+    padding: 25px;
+}
+
+.headingyy0 {
+    color: #132d84;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.card00yy0 {
+    margin: 60px;
+}
+
+.bg-containerryy0 {
+    background-color: #ffedcb;
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+.girl-imgyy0 {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.main-headingyy0 {
+    color: #132d84;
+    font-family: roboto;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.carddyy0 {
+    background-color: #ffe2ab;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.img1yy0 {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.headinggggyy0 {
+    font-size: 18px;
+    color: #253263;
+}
+
+.cardsyy0 {
+    text-align: start;
+    padding: 10px;
+}
+
+.paraayy0 {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 13.5px;
+}
+
+.buttonnyy0 {
+    color: #fad693;
+    background-color: #132d84;
+    font-size: 14px;
+    border-width: 0px;
+    padding: 5px;
+    border-radius: 6px;
+    width: 70px;
+}
+
+.buttonnyye0 {
+    color: black;
+    background-color: #ffffff;
+    font-size: 14px;
+    border-width: 0px;
+    padding: 5px;
+    border-radius: 6px;
+    width: 70px;
+}
+
+
+
+
+
+
+
+.bg-containerf0 {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card1f0 {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: center;
+    padding: 45px;
+}
+
+.headingf0 {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 19px;
+}
+
+.paraf0 {
+    font-size: 13px;
+    color: #6c6b70;
+    font-family: Bree Serif;
+}
+
+.buttonf0 {
+    border-width: 0px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 13px;
+    width: 80px;
+    margin: 7px;
+}
+
+.buttonff0 {
+    border-width: 0px;
+    color: black;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 4px;
+    font-size: 13px;
+    width: 80px;
+    margin: 7px;
+}
+
+.bg-container2f0 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card2f0 {
+    background-color: #ffffff;
+    border-radius: 7px;
+    margin: 15px;
+}
+
+.head2f0 {
+    font-family: Bree Serif;
+    font-size: 18px;
+    color: #0f0e46;
+    font-weight: bold;
+}
+
+.imgf0 {
+    height: 150px;
+    width: 80px;
+}
+
+.card21f0 {
+    padding: 10px;
+}
+
+.para2f0 {
+    font-size: 11px;
+    color: #6c6b70;
+    font-family: Bree Serif;
+}
+
+.heading2f0 {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 19px;
+    padding: 15px;
+}
+
+.img2f0 {
+    height: 132px;
+    width: 80px;
+}
+
+.img3f0 {
+    height: 130px;
+    width: 80px;
+}
+
+.imgggf0 {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png');
+    height: 35vh;
+    background-size: cover;
+}
+
+.bg-container3f0 {
+    background-color: #222222;
+    height: 65vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.paraaaf0 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.iconf0 {
+    height: 20px;
+    width: 20px;
+}
+
+.imggg2f0 {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png');
+    height: 35vh;
+    background-size: cover;
+}
+
+.imggg3f0 {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png');
+    height: 35vh;
+    background-size: cover;
+}
+
+.bg99 {
+    background-color: #52606d;
+    background-size: cover;
+    height: 100;
+}
+
+.head199 {
+    color: #cced00;
+    font-size: 27px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.head299 {
+    color: #ffffff;
+    font-size: 47px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.head399 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.bg299 {
+    background-color: #323f4b;
+    background-size: cover;
+    height: 100;
+    border-radius: 10px;
+}
+
+.para99 {
+    color: #9aa5b1;
+    font-size: 21px;
+}
+
+.img99 {
+    height: 65px;
+    width: 65px;
+}
+
+
+
+
+
+.bg90 {
+    background-color: #0d2436;
+    background-size: cover;
+    height: 100;
+}
+
+.head90 {
+    color: #cced00;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.para90 {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.img90 {
+    height: 80px;
+    width: 80px;
+    border-radius: 39px;
+}
+
+.img290 {
+    height: 25px;
+    width: 25px;
+}
+
+.bg1090 {
+    background-color: #001c32;
+    background-size: cover;
+    height: 100;
+}
+
+
+
+
+.bg50 {
+    background-color: #3e4c59;
+    background-size: cover;
+    height: 100;
+}
+
+.head150 {
+    color: #cced00;
+    font-size: 32px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.head250 {
+    color: #ffffff;
+    font-size: 54px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.cont50 {
+    background-color: #323f4b;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.img50 {
+    width: 100%;
+    height: 265px;
+}
+
+.head350 {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: Roboto;
+}
+
+.para50 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.para250 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 22px;
+}
+
+.para350 {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 24px;
+}
