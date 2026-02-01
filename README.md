@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazzyasin&label=Profile%20views&color=0e75b6&style=flat" alt="yazzyasin" /> </p>
 
+<p align="center">
+  <a href="https://yazzyasin.github.io/portfolio_/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Website-green?style=for-the-badge">
+  </a>
+</p>
 
 
 - 🌱 I’m currently learning **MERN stack**
