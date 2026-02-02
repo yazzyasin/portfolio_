@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my projects, skills, and learning journey as an aspiring developer.
 
 🔗 **Live Website:**  
-👉 https://yazzyasin.github.io/portfolio_/
+👉 https://portfolio44.ccbp.tech/
 
 ---
 
@@ -40,7 +40,7 @@ Each project focuses on improving layout design, responsiveness, and real-world 
 ## 🌐 Live Demo
 
 🚀 **Portfolio Live Link:**  
-👉 https://yazzyasin.github.io/portfolio_/
+👉 https://portfolio44.ccbp.tech/
 
 (Click the link to view the working website)
 
